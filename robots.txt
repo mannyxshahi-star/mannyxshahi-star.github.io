@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mannyxshahi-star.github.io/sitemap.xml
